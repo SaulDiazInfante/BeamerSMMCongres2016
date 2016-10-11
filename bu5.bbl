@@ -1,0 +1,11 @@
+\begin{thebibliography}{HJK10}
+
+\bibitem[HJK10]{Hutzenthaler2010}
+M.~Hutzenthaler, A.~Jentzen, and P.~E. Kloeden.
+\newblock Strong and weak divergence in finite time of euler's method for
+  stochastic differential equations with non-globally lipschitz continuous
+  coefficients.
+\newblock {\em Proceedings of the Royal Society A: Mathematical, Physical and
+  Engineering Sciences}, 467(2130):1563--1576, December 2010.
+
+\end{thebibliography}

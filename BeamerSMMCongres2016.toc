@@ -1,0 +1,14 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {spanish}
+\beamer@sectionintoc {2}{Esquemas Steklov (EDEs escalares)}{31}{0}{1}
+\beamer@subsectionintoc {2}{1}{Constucci\'on}{32}{0}{1}
+\beamer@subsectionintoc {2}{2}{Consistencia y estabilidad}{52}{0}{1}
+\beamer@subsectionintoc {2}{3}{Estabilidad lineal}{61}{0}{1}
+\beamer@subsectionintoc {2}{4}{Resultados num\IeC {\'e}ricos}{67}{0}{1}
+\beamer@sectionintoc {3}{Linear Steklov (EDEs vectoriales)}{71}{0}{2}
+\beamer@subsectionintoc {3}{1}{Construcci\'on}{72}{0}{2}
+\beamer@subsectionintoc {3}{2}{Convergencia}{102}{0}{2}
+\beamer@subsectionintoc {3}{3}{Resultados Num\IeC {\'e}ricos}{119}{0}{2}
+\beamer@sectionintoc {4}{Comentarios Finales}{128}{0}{3}
+\beamer@subsectionintoc {4}{1}{Conclusiones}{129}{0}{3}
+\beamer@subsectionintoc {4}{2}{Perspectivas}{132}{0}{3}

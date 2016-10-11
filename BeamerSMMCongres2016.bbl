@@ -1,0 +1,28 @@
+\begin{thebibliography}{}
+
+\bibitem[Buckwar et~al., 2011]{Buckwar2011a}
+Buckwar, E., Riedler, M.~G., and Kloeden, P.~E. (2011).
+\newblock The numerical stability of stochastic ordinary differential equations
+  with additive noise.
+\newblock {\em Stochastics and Dynamics}, 11(02n03):265--281.
+
+\bibitem[Higham et~al., 2002]{Higham2002b}
+Higham, D.~J., Mao, X., and Stuart, A.~M. (2002).
+\newblock Strong convergence of euler-type methods for nonlinear stochastic
+  differential equations.
+\newblock {\em SIAM Journal on Numerical Analysis}, 40(3):1041--1063.
+
+\bibitem[Hutzenthaler and Jentzen, 2015]{Hutzenthaler2015}
+Hutzenthaler, M. and Jentzen, A. (2015).
+\newblock Numerical approximations of stochastic differential equations with
+  non-globally lipschitz continuous coefficients.
+\newblock {\em Memoirs of the American Mathematical Society}, 236(1112).
+
+\bibitem[Mao and Szpruch, 2013]{Mao2013}
+Mao, X. and Szpruch, L. (2013).
+\newblock Strong convergence and stability of implicit numerical methods for
+  stochastic differential equations with non-globally lipschitz continuous
+  coefficients.
+\newblock {\em Journal of Computational and Applied Mathematics}, 238:14--28.
+
+\end{thebibliography}

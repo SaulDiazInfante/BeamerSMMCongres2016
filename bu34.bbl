@@ -1,0 +1,9 @@
+\begin{thebibliography}{}
+
+\bibitem[Hutzenthaler et~al., 2012]{Hutzenthaler2012a}
+Hutzenthaler, M., Jentzen, A., and Kloeden, P.~E. (2012).
+\newblock Strong convergence of an explicit numerical method for sdes with
+  nonglobally lipschitz continuous coefficients.
+\newblock {\em The Annals of Applied Probability}, 22(4):1611--1641.
+
+\end{thebibliography}
